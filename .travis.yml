@@ -6,4 +6,7 @@ install:
   - npm install
 
 script:
-  - npm test
+  - npm run lint          # Ejecuta el análisis estático del código
+  - npm run test          # Ejecuta las pruebas unitarias
+  - npm run coverage      # Genera un informe de cobertura
+  - npm run build         # Genera el código final
