@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+[![Build Status](https://app.travis-ci.com/JonathanJavier2001/sistema_gestion_notas.svg?branch=main)](https://app.travis-ci.com/JonathanJavier2001/sistema_gestion_notas)
+![GitHub](https://img.shields.io/github/license/JonathanJavier2001/sistema_gestion_notas.svg?branch=main)
+![Packagist Version (custom server)](https://img.shields.io/packagist/v/JonathanJavier2001/sistema_gestion_notas.svg?branch=main)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
