@@ -1,9 +1,5 @@
 # Getting Started with Create React App
 
-[![Build Status](https://app.travis-ci.com/JonathanJavier2001/sistema_gestion_notas.svg?branch=main)](https://app.travis-ci.com/JonathanJavier2001/sistema_gestion_notas)
-![GitHub](https://img.shields.io/github/license/JonathanJavier2001/sistema_gestion_notas.svg?branch=main)
-![Packagist Version (custom server)](https://img.shields.io/packagist/v/JonathanJavier2001/sistema_gestion_notas.svg?branch=main)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -35,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+*Note: this is a one-way operation. Once you `eject`, you can't go back!*
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
@@ -72,3 +68,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contributing
+
+We welcome contributions to improve this project! To contribute, follow these steps:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your changes: `git checkout -b feature/my-branch`.
+3. Make your modifications and additions to the code.
+4. Run the tests to ensure everything is working correctly: `npm test`.
+5. Commit your changes: `git commit -m "Add my feature"`.
+6. Push your branch to your forked repository: `git push origin feature/my-branch`.
+7. Open a pull request in this repository with a detailed description of your changes.
+
+Please make sure to follow our [code of conduct](link-to-code-of-conduct) and maintain a respectful and inclusive environment for everyone.
+
+We appreciate your contributions and look forward to reviewing them!
+
+## Learn More
+
+You can learn more about contributing to open source projects and Git in general. Here are some resources to get you started:
+
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [GitHub Flow Guide](https://guides.github.com/introduction/flow/)
+
+## Contributing
+
+We welcome contributions to improve this project! To contribute, follow these steps:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your changes: `git checkout -b feature/my-branch`.
+3. Make your modifications and additions to the code.
+4. Run the tests to ensure everything is working correctly: `npm test`.
+5. Commit your changes: `git commit -m "Add my feature"`.
+6. Push your branch to your forked repository: `git push origin feature/my-branch`.
+7. Open a pull request in this repository with a detailed description of your changes.
+
+Please make sure to follow our [code of conduct](link-to-code-of-conduct) and maintain a respectful and inclusive environment for everyone.
+
+We appreciate your contributions and look forward to reviewing them!
+
+## Learn More
+
+You can learn more about contributing to open source projects and Git in general. Here are some resources to get you started:
+
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [GitHub Flow Guide](https://guides.github.com/introduction/flow/)
